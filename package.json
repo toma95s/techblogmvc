@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/toma95s/techblogmvc/issues"
   },
-  "homepage": "https://github.com/toma95s/techblogmvc#readme"
+  "homepage": "https://github.com/toma95s/techblogmvc#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
