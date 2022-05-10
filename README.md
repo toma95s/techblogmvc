@@ -4,10 +4,12 @@ Writing about tech can be just as important as making it. Developers spend plent
 This is a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. This site is built completely from scratch and deployed on to Heroku. The app follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
 
-<img width="80" alt = githublink src = https://img.shields.io/badge/-GitHub%20Link-pink>
+<img width="80" alt = githublink src = https://img.shields.io/badge/-GitHub%20Link-pink> https://github.com/toma95s/techblogmvc 
+<br>
 
 
 <h2> Technologies Used </h2>
+
 
 <img width="50" alt="badge2" src="https://img.shields.io/badge/-JavaScript-blue">
 <img width="50" alt="badge5" src="https://img.shields.io/badge/-Package.Json-yellow"> 
@@ -19,11 +21,22 @@ This is a CMS-style blog site similar to a Wordpress site, where developers can 
 <img width="50" alt="badge5" src="https://img.shields.io/badge/-express--session-red"> 
 <img width="50" alt="badge6" src="https://img.shields.io/badge/-dotenv-ff69b4"> 
 
+<br>
 
 <h2> Code Snippet </h2>
 
+Here you can see the code snippet for the comment model being created. 
+
+![Screen Shot 2022-05-09 at 10 44 41 PM](https://user-images.githubusercontent.com/101033224/167556758-f3dd12d6-4c97-466b-a27d-bf25fd56ab52.png)
+
+<br>
+
+Here you can see the code snippet for our css code for the front end layout.
 
 
+![Screen Shot 2022-05-09 at 10 47 12 PM](https://user-images.githubusercontent.com/101033224/167557022-9c958662-0183-4ce4-800b-165dd40a5741.png)
+
+<br>
 
 <img width="80" alt="badge1" src="https://img.shields.io/badge/License-MIT-lightgrey">
 <h2>MIT License </h2>
