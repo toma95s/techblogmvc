@@ -9,14 +9,14 @@ This is a CMS-style blog site similar to a Wordpress site, where developers can 
 
 <h2> Technologies Used </h2>
 
-<img width="60" alt="badge2" src="https://img.shields.io/badge/-JavaScript-blue">
-<img width="70" alt="badge5" src="https://img.shields.io/badge/-Package.Json-yellow"> 
+<img width="50" alt="badge2" src="https://img.shields.io/badge/-JavaScript-blue">
+<img width="50" alt="badge5" src="https://img.shields.io/badge/-Package.Json-yellow"> 
 <img width="50" alt="badge6" src="https://img.shields.io/badge/-Heroku-green"> 
-<img width="60" alt="badge2" src="https://img.shields.io/badge/-handlebars.js-yellowgreen">
-<img width="70" alt="badge5" src="https://img.shields.io/badge/-express--session-red"> 
+<img width="50" alt="badge2" src="https://img.shields.io/badge/-handlebars.js-yellowgreen">
+<img width="50" alt="badge5" src="https://img.shields.io/badge/-express--session-red"> 
 <img width="50" alt="badge6" src="https://img.shields.io/badge/-MYSQL-blue"> 
-<img width="60" alt="badge2" src="https://img.shields.io/badge/-Sequelize-orange">
-<img width="70" alt="badge5" src="https://img.shields.io/badge/-express--session-red"> 
+<img width="50" alt="badge2" src="https://img.shields.io/badge/-Sequelize-orange">
+<img width="50" alt="badge5" src="https://img.shields.io/badge/-express--session-red"> 
 <img width="50" alt="badge6" src="https://img.shields.io/badge/-dotenv-ff69b4"> 
 
 
