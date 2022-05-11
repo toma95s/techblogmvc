@@ -10,7 +10,7 @@ This is a CMS-style blog site similar to a Wordpress site, where developers can 
 
 <h2> Technologies Used </h2>
 
-
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <img width="50" alt="badge2" src="https://img.shields.io/badge/-JavaScript-blue">
 <img width="50" alt="badge5" src="https://img.shields.io/badge/-Package.Json-yellow"> 
 <img width="50" alt="badge6" src="https://img.shields.io/badge/-Heroku-green"> 
